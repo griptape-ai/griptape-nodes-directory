@@ -26,3 +26,7 @@ The repository serves as directory for nodes created for Griptape Nodes.
 ### Category Heading (add categories as necessary)
 
 * add links to repos here
+
+## Reference and example nodes
+
+* add links to repos here
