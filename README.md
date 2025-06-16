@@ -16,6 +16,7 @@ The repository serves as directory for nodes created for Griptape Nodes.
 ### 💻 Third Party Tools/Software
 
 * [Blender](https://github.com/griptape-ai/griptape-nodes-library-blender) - Nodes and MCP server for Blender
+* [Neo4j](https://github.com/griptape-ai/griptape-nodes-library-neo4j) - Nodes for managing and accessing a [Neo4j graph database](https://neo4j.com/).
 
 ### 🔧 Miscellaneous
 
