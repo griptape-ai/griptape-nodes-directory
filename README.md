@@ -8,12 +8,14 @@ The repository serves as directory for nodes created for Griptape Nodes.
 
 * [Black Forest Labs](https://github.com/griptape-ai/griptape-nodes-library-blackforestlabs) - interact with Black Forest Labs' FLUX APIs, enabling high-quality image generation and editing capabilities
 * [Google Imagen](https://github.com/griptape-ai/griptape-nodes-library-googleai) - generate images from text prompts with Google Imagen, including the latest Imagen 4 models.
+* [Topaz Labs](https://github.com/griptape-ai/griptape-nodes-library-topazlabs) - denoise and enhance images with Topaz Labs models via their API.
 
 ### 🎥 Video
 
 * [Google Veo 3](https://github.com/griptape-ai/griptape-nodes-library-googleai) - generate video with audio from text with Google's Veo3 model.
 * [Kling](https://github.com/griptape-ai/griptape-nodes-library-kling) - generate videos from text prompts, images, or extend existing videos
 * [RunwayML](https://github.com/griptape-ai/griptape-nodes-library-runwayml) - generate videos from images and text prompts
+* [Topaz Labs](https://github.com/griptape-ai/griptape-nodes-library-topazlabs) - upscale and denoise videos and perform frame interpolation to 60fps with Topaz Labs models via their API.
 
 ### 💻 Third Party Tools/Software
 
