@@ -28,6 +28,6 @@ The repository serves as directory for nodes created for Griptape Nodes.
 
 ## 🧑‍🤝‍🧑 Community contributed nodes
 
-### Category Heading (add categories as necessary)
+### 🖼️ Image
 
-* add links to repos here
+* [Storyboard](https://github.com/ian-griptape-ai/griptape-nodes-library-storyboard) - create storyboard grid layouts from multiple images with customizable columns, padding, and output resolutions
