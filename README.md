@@ -31,3 +31,7 @@ The repository serves as directory for nodes created for Griptape Nodes.
 ### 🖼️ Image
 
 * [Storyboard](https://github.com/ian-griptape-ai/griptape-nodes-library-storyboard) - create storyboard grid layouts from multiple images with customizable columns, padding, and output resolutions
+
+### 🔧 Miscellaneous
+
+* [SendGrid](https://github.com/ian-griptape-ai/griptape-nodes-library-sendgrid) - send emails through the SendGrid API with support for plain text, HTML content, and multiple attachment types
