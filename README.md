@@ -12,6 +12,7 @@ The repository serves as directory for nodes created for Griptape Nodes.
 
 ### 🎥 Video
 
+* [Decart Lucy Video Edit](https://github.com/griptape-ai/griptape-nodes-library-decart) - edit videos with natural language prompts
 * [Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai) - generate high-quality videos from text prompts and images using Google's Veo model with advanced controls for aspect ratio, resolution, and duration
 * [Kling](https://github.com/griptape-ai/griptape-nodes-library-kling) - generate videos from text prompts, images, or extend existing videos
 * [RunwayML](https://github.com/griptape-ai/griptape-nodes-library-runwayml) - generate videos from images and text prompts
