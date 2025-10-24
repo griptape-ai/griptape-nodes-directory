@@ -47,6 +47,10 @@ The repository serves as directory for nodes created for Griptape Nodes.
 
 * [Storyboard](https://github.com/ian-griptape-ai/griptape-nodes-library-storyboard) - create storyboard grid layouts from multiple images with customizable columns, padding, and output resolutions
 
+### 🎵 Audio
+
+* [Suno](https://github.com/ian-griptape-ai/griptape-nodes-libary-suno) - generate AI-powered music tracks using the Suno API with custom lyrics, styles, vocal preferences, and multiple model versions
+
 ### 🔧 Miscellaneous
 
 * [SendGrid](https://github.com/ian-griptape-ai/griptape-nodes-library-sendgrid) - send emails through the SendGrid API with support for plain text, HTML content, and multiple attachment types
