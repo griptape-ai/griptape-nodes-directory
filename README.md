@@ -49,7 +49,7 @@ The repository serves as directory for nodes created for Griptape Nodes.
 
 ### 🎵 Audio
 
-* [Suno](https://github.com/ian-griptape-ai/griptape-nodes-libary-suno) - generate AI-powered music tracks using the Suno API with custom lyrics, styles, vocal preferences, and multiple model versions
+* [Suno (Unofficial)](https://github.com/ian-griptape-ai/griptape-nodes-libary-suno) - generate AI-powered music tracks using the Suno API with custom lyrics, styles, vocal preferences, and multiple model versions
 
 ### 🔧 Miscellaneous
 
