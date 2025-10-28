@@ -8,9 +8,9 @@ The repository serves as directory for nodes created for Griptape Nodes.
 
 * [Black Forest Labs](https://github.com/griptape-ai/griptape-nodes-library-blackforestlabs) - interact with Black Forest Labs' FLUX APIs, enabling high-quality image generation and editing capabilities
 * [Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai) - generate images from text prompts using Google's Imagen & Gemini 2.5 Flash Image models with comprehensive customization options
+* * [LoRA Training](https://github.com/griptape-ai/griptape-nodes-lora-training-library) - Generate training datasets and train LoRA models using [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
 * [Minimax](https://github.com/griptape-ai/griptape-nodes-library-minimax) - generate high-quality images from text prompts with multiple aspect ratios, custom dimensions, and batch generation support
 * [Topaz Labs](https://github.com/griptape-ai/griptape-nodes-library-topazlabs) - denoise and enhance images with Topaz Labs models via their API.
-* [LoRA Training](https://github.com/griptape-ai/griptape-nodes-lora-training-library) - Generate training datasets and train LoRA models using [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
 
 ### 🎥 Video
 
