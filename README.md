@@ -7,6 +7,7 @@ The repository serves as directory for nodes created for Griptape Nodes.
 ### 🖼️ Image
 
 * [Black Forest Labs](https://github.com/griptape-ai/griptape-nodes-library-blackforestlabs) - interact with Black Forest Labs' FLUX APIs, enabling high-quality image generation and editing capabilities
+* [Decart](https://github.com/griptape-ai/griptape-nodes-library-decart) - generate images from text prompts and transform existing images using Decart's Lucy Pro models with text-to-image and image-to-image capabilities
 * [Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai) - generate images from text prompts using Google's Imagen & Gemini 2.5 Flash Image models with comprehensive customization options
 * [LoRA Training](https://github.com/griptape-ai/griptape-nodes-lora-training-library) - Generate training datasets and train LoRA models using [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
 * [Luma AI](https://github.com/griptape-ai/griptape-nodes-library-luma) - generate and modify images using Luma's Photon models with support for image generation, modification, and intelligent aspect ratio reframing
@@ -15,7 +16,7 @@ The repository serves as directory for nodes created for Griptape Nodes.
 
 ### 🎥 Video
 
-* [Decart Lucy Video Edit](https://github.com/griptape-ai/griptape-nodes-library-decart) - edit videos with natural language prompts
+* [Decart](https://github.com/griptape-ai/griptape-nodes-library-decart) - generate videos from text prompts, convert images to videos, and transform existing videos using Decart's Lucy Dev and Lucy Pro models with text-to-video, image-to-video, and video-to-video capabilities
 * [Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai) - generate high-quality videos from text prompts and images using Google's Veo model with advanced controls for aspect ratio, resolution, and duration
 * [Kling](https://github.com/griptape-ai/griptape-nodes-library-kling) - generate videos from text prompts, images, or extend existing videos
 * [Luma AI](https://github.com/griptape-ai/griptape-nodes-library-luma) - generate, modify, and reframe videos using Luma's Ray models with support for text-to-video, image-to-video, style transfer, prompt-based editing, and intelligent aspect ratio changes
