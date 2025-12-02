@@ -12,8 +12,9 @@ The repository serves as directory for nodes created for Griptape Nodes.
 * [LoRA Training](https://github.com/griptape-ai/griptape-nodes-lora-training-library) - Generate training datasets and train LoRA models using [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
 * [Luma AI](https://github.com/griptape-ai/griptape-nodes-library-luma) - generate and modify images using Luma's Photon models with support for image generation, modification, and intelligent aspect ratio reframing
 * [Minimax](https://github.com/griptape-ai/griptape-nodes-library-minimax) - generate high-quality images from text prompts with multiple aspect ratios, custom dimensions, and batch generation support
-* [Topaz Labs](https://github.com/griptape-ai/griptape-nodes-library-topazlabs) - denoise and enhance images with Topaz Labs models via their API.
 * [SAM3](https://github.com/griptape-ai/griptape-nodes-library-sam3) - promptable segmentation for images (and videos) using Facebook's SAM3 model 
+* [Topaz Labs](https://github.com/griptape-ai/griptape-nodes-library-topazlabs) - denoise and enhance images with Topaz Labs models via their API.
+
 
 ### 🎥 Video
 
@@ -23,8 +24,8 @@ The repository serves as directory for nodes created for Griptape Nodes.
 * [Luma AI](https://github.com/griptape-ai/griptape-nodes-library-luma) - generate, modify, and reframe videos using Luma's Ray models with support for text-to-video, image-to-video, style transfer, prompt-based editing, and intelligent aspect ratio changes
 * [Minimax](https://github.com/griptape-ai/griptape-nodes-library-minimax) - generate videos from text prompts, animate images, or create smooth transitions between keyframes with advanced camera controls and multiple resolution options
 * [RunwayML](https://github.com/griptape-ai/griptape-nodes-library-runwayml) - generate videos from images and text prompts
+* [SAM3](https://github.com/griptape-ai/griptape-nodes-library-sam3) - promptable segmentation for videos (and images) using Facebook's SAM3 model 
 * [Topaz Labs](https://github.com/griptape-ai/griptape-nodes-library-topazlabs) - upscale and denoise videos and perform frame interpolation to 60fps with Topaz Labs models via their API.
-* * [SAM3](https://github.com/griptape-ai/griptape-nodes-library-sam3) - promptable segmentation for videos (and images) using Facebook's SAM3 model 
 
 ### 🎵 Audio
 
