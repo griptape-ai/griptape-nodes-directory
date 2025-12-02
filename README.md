@@ -4,6 +4,10 @@ The repository serves as directory for nodes created for Griptape Nodes.
 
 ## 🛹 Griptape team contributed nodes
 
+### 🎲 3D
+
+* [Hyper3D Rodin](https://github.com/griptape-ai/griptape-nodes-library-rodin) - generate 3D models from text prompts or images using Hyper3D's Rodin API with support for text-to-3D, image-to-3D, multi-image generation, and multiple output formats (GLB/USDZ)
+
 ### 🖼️ Image
 
 * [Black Forest Labs](https://github.com/griptape-ai/griptape-nodes-library-blackforestlabs) - interact with Black Forest Labs' FLUX APIs, enabling high-quality image generation and editing capabilities
