@@ -4,85 +4,36 @@ The repository serves as directory for nodes created for Griptape Nodes.
 
 ## 🛹 Griptape team contributed nodes
 
-### 🎲 3D
-
-| Name | Description | Install |
-|------|-------------|---------|
-| [Hyper3D Rodin](https://github.com/griptape-ai/griptape-nodes-library-rodin) | Generate 3D models from text prompts or images using Hyper3D's Rodin API with support for text-to-3D, image-to-3D, multi-image generation, and multiple output formats (GLB/USDZ) | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-rodin"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-
-### 🖼️ Image
-
-| Name | Description | Install |
-|------|-------------|---------|
-| [Black Forest Labs](https://github.com/griptape-ai/griptape-nodes-library-blackforestlabs) | Interact with Black Forest Labs' FLUX APIs, enabling high-quality image generation and editing capabilities | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-blackforestlabs"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-| [Decart](https://github.com/griptape-ai/griptape-nodes-library-decart) | Generate images from text prompts and transform existing images using Decart's Lucy Pro models with text-to-image and image-to-image capabilities | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-decart"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-| [Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai) | Generate images from text prompts using Google's Imagen & Gemini 2.5 Flash Image models with comprehensive customization options | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-| [LoRA Training](https://github.com/griptape-ai/griptape-nodes-lora-training-library) | Generate training datasets and train LoRA models using [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-lora-training-library"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-| [Luma AI](https://github.com/griptape-ai/griptape-nodes-library-luma) | Generate and modify images using Luma's Photon models with support for image generation, modification, and intelligent aspect ratio reframing | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-luma"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-| [Minimax](https://github.com/griptape-ai/griptape-nodes-library-minimax) | Generate high-quality images from text prompts with multiple aspect ratios, custom dimensions, and batch generation support | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-minimax"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-| [SAM3](https://github.com/griptape-ai/griptape-nodes-library-sam3) | Promptable segmentation for images (and videos) using Facebook's SAM3 model | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-sam3"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-| [Topaz Labs](https://github.com/griptape-ai/griptape-nodes-library-topazlabs) | Denoise and enhance images with Topaz Labs models via their API | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-topazlabs"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-
-### 🎥 Video
-
-| Name | Description | Install |
-|------|-------------|---------|
-| [Decart](https://github.com/griptape-ai/griptape-nodes-library-decart) | Generate videos from text prompts, convert images to videos, and transform existing videos using Decart's Lucy Dev and Lucy Pro models with text-to-video, image-to-video, and video-to-video capabilities | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-decart"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-| [Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai) | Generate high-quality videos from text prompts and images using Google's Veo model with advanced controls for aspect ratio, resolution, and duration | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-| [Kling](https://github.com/griptape-ai/griptape-nodes-library-kling) | Generate videos from text prompts, images, or extend existing videos | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-kling"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-| [Luma AI](https://github.com/griptape-ai/griptape-nodes-library-luma) | Generate, modify, and reframe videos using Luma's Ray models with support for text-to-video, image-to-video, style transfer, prompt-based editing, and intelligent aspect ratio changes | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-luma"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-| [Minimax](https://github.com/griptape-ai/griptape-nodes-library-minimax) | Generate videos from text prompts, animate images, or create smooth transitions between keyframes with advanced camera controls and multiple resolution options | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-minimax"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-| [RunwayML](https://github.com/griptape-ai/griptape-nodes-library-runwayml) | Generate videos from images and text prompts | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-runwayml"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-| [SAM3](https://github.com/griptape-ai/griptape-nodes-library-sam3) | Promptable segmentation for videos (and images) using Facebook's SAM3 model | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-sam3"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-| [Topaz Labs](https://github.com/griptape-ai/griptape-nodes-library-topazlabs) | Upscale and denoise videos and perform frame interpolation to 60fps with Topaz Labs models via their API | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-topazlabs"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-
-### 🎵 Audio
-
-| Name | Description | Install |
-|------|-------------|---------|
-| [Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai) | Generate 30-second instrumental music using Google's Lyria model with creative prompt guidance and copyright protection | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-
-### 🔍 Media Analysis
-
-| Name | Description | Install |
-|------|-------------|---------|
-| [Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai) | Analyze images, videos, and audio using Google's Gemini model with media description capabilities and precise timecode extraction | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-
-### 🖥️ Display Utilities
-
-| Name | Description | Install |
-|------|-------------|---------|
-| [Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai) | Dynamic multi-video and multi-audio display nodes with grid layouts and individual output ports | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-
-### 💻 Third Party Tools/Software
-
-| Name | Description | Install |
-|------|-------------|---------|
-| [Blender](https://github.com/griptape-ai/griptape-nodes-library-blender) | Nodes and MCP server for Blender | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-blender"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-| [Neo4j](https://github.com/griptape-ai/griptape-nodes-library-neo4j) | Nodes for managing and accessing a [Neo4j graph database](https://neo4j.com/) | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-neo4j"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-
-### 🔧 Miscellaneous
-
-| Name | Description | Install |
-|------|-------------|---------|
-| [FireCrawl](https://github.com/griptape-ai/griptape-nodes-library-firecrawl) | Generate text by crawling the web with FireCrawl | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-firecrawl"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| Category | Name | Description | Install |
+|----------|------|-------------|---------|
+| 🎲 3D | [Hyper3D Rodin](https://github.com/griptape-ai/griptape-nodes-library-rodin) | Generate 3D models from text prompts or images using Hyper3D's Rodin API with support for text-to-3D, image-to-3D, multi-image generation, and multiple output formats (GLB/USDZ) | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-rodin"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🖼️ Image | [Black Forest Labs](https://github.com/griptape-ai/griptape-nodes-library-blackforestlabs) | Interact with Black Forest Labs' FLUX APIs, enabling high-quality image generation and editing capabilities | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-blackforestlabs"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🖼️ Image | [Decart](https://github.com/griptape-ai/griptape-nodes-library-decart) | Generate images from text prompts and transform existing images using Decart's Lucy Pro models with text-to-image and image-to-image capabilities | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-decart"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🖼️ Image | [Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai) | Generate images from text prompts using Google's Imagen & Gemini 2.5 Flash Image models with comprehensive customization options | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🖼️ Image | [LoRA Training](https://github.com/griptape-ai/griptape-nodes-lora-training-library) | Generate training datasets and train LoRA models using [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-lora-training-library"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🖼️ Image | [Luma AI](https://github.com/griptape-ai/griptape-nodes-library-luma) | Generate and modify images using Luma's Photon models with support for image generation, modification, and intelligent aspect ratio reframing | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-luma"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🖼️ Image | [Minimax](https://github.com/griptape-ai/griptape-nodes-library-minimax) | Generate high-quality images from text prompts with multiple aspect ratios, custom dimensions, and batch generation support | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-minimax"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🖼️ Image | [SAM3](https://github.com/griptape-ai/griptape-nodes-library-sam3) | Promptable segmentation for images (and videos) using Facebook's SAM3 model | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-sam3"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🖼️ Image | [Topaz Labs](https://github.com/griptape-ai/griptape-nodes-library-topazlabs) | Denoise and enhance images with Topaz Labs models via their API | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-topazlabs"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🎥 Video | [Decart](https://github.com/griptape-ai/griptape-nodes-library-decart) | Generate videos from text prompts, convert images to videos, and transform existing videos using Decart's Lucy Dev and Lucy Pro models with text-to-video, image-to-video, and video-to-video capabilities | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-decart"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🎥 Video | [Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai) | Generate high-quality videos from text prompts and images using Google's Veo model with advanced controls for aspect ratio, resolution, and duration | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🎥 Video | [Kling](https://github.com/griptape-ai/griptape-nodes-library-kling) | Generate videos from text prompts, images, or extend existing videos | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-kling"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🎥 Video | [Luma AI](https://github.com/griptape-ai/griptape-nodes-library-luma) | Generate, modify, and reframe videos using Luma's Ray models with support for text-to-video, image-to-video, style transfer, prompt-based editing, and intelligent aspect ratio changes | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-luma"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🎥 Video | [Minimax](https://github.com/griptape-ai/griptape-nodes-library-minimax) | Generate videos from text prompts, animate images, or create smooth transitions between keyframes with advanced camera controls and multiple resolution options | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-minimax"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🎥 Video | [RunwayML](https://github.com/griptape-ai/griptape-nodes-library-runwayml) | Generate videos from images and text prompts | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-runwayml"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🎥 Video | [SAM3](https://github.com/griptape-ai/griptape-nodes-library-sam3) | Promptable segmentation for videos (and images) using Facebook's SAM3 model | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-sam3"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🎥 Video | [Topaz Labs](https://github.com/griptape-ai/griptape-nodes-library-topazlabs) | Upscale and denoise videos and perform frame interpolation to 60fps with Topaz Labs models via their API | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-topazlabs"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🎵 Audio | [Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai) | Generate 30-second instrumental music using Google's Lyria model with creative prompt guidance and copyright protection | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🔍 Media Analysis | [Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai) | Analyze images, videos, and audio using Google's Gemini model with media description capabilities and precise timecode extraction | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🖥️ Display Utilities | [Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai) | Dynamic multi-video and multi-audio display nodes with grid layouts and individual output ports | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 💻 Third Party Tools | [Blender](https://github.com/griptape-ai/griptape-nodes-library-blender) | Nodes and MCP server for Blender | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-blender"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 💻 Third Party Tools | [Neo4j](https://github.com/griptape-ai/griptape-nodes-library-neo4j) | Nodes for managing and accessing a [Neo4j graph database](https://neo4j.com/) | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-neo4j"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🔧 Miscellaneous | [FireCrawl](https://github.com/griptape-ai/griptape-nodes-library-firecrawl) | Generate text by crawling the web with FireCrawl | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-firecrawl"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
 
 ## 🧑‍🤝‍🧑 Community contributed nodes
 
-### 🖼️ Image
-
-| Name | Description | Install |
-|------|-------------|---------|
-| [Storyboard](https://github.com/ian-griptape-ai/griptape-nodes-library-storyboard) | Create storyboard grid layouts from multiple images with customizable columns, padding, and output resolutions | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/ian-griptape-ai/griptape-nodes-library-storyboard"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-
-### 🎵 Audio
-
-| Name | Description | Install |
-|------|-------------|---------|
-| [Suno (Unofficial)](https://github.com/ian-griptape-ai/griptape-nodes-libary-suno) | Generate AI-powered music tracks using the Suno API with custom lyrics, styles, vocal preferences, and multiple model versions | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/ian-griptape-ai/griptape-nodes-libary-suno"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
-
-### 🔧 Miscellaneous
-
-| Name | Description | Install |
-|------|-------------|---------|
-| [SendGrid](https://github.com/ian-griptape-ai/griptape-nodes-library-sendgrid) | Send emails through the SendGrid API with support for plain text, HTML content, and multiple attachment types | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/ian-griptape-ai/griptape-nodes-library-sendgrid"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| Category | Name | Description | Install |
+|----------|------|-------------|---------|
+| 🖼️ Image | [Storyboard](https://github.com/ian-griptape-ai/griptape-nodes-library-storyboard) | Create storyboard grid layouts from multiple images with customizable columns, padding, and output resolutions | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/ian-griptape-ai/griptape-nodes-library-storyboard"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🎵 Audio | [Suno (Unofficial)](https://github.com/ian-griptape-ai/griptape-nodes-libary-suno) | Generate AI-powered music tracks using the Suno API with custom lyrics, styles, vocal preferences, and multiple model versions | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/ian-griptape-ai/griptape-nodes-libary-suno"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
+| 🔧 Miscellaneous | [SendGrid](https://github.com/ian-griptape-ai/griptape-nodes-library-sendgrid) | Send emails through the SendGrid API with support for plain text, HTML content, and multiple attachment types | <a href="https://nodes.griptape.ai/#library-management?git=https://github.com/ian-griptape-ai/griptape-nodes-library-sendgrid"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a> |
