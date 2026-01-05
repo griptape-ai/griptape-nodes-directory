@@ -2,6 +2,11 @@
 
 The repository serves as directory for nodes created for Griptape Nodes.
 
+## Node Development Guide
+
+If you’re building your own nodes or node libraries, start with the official guide:
+- **[Griptape Nodes Node Development Guide](https://github.com/griptape-ai/griptape-nodes-node-development-guide)**
+
 ## 🛹 Griptape team contributed nodes
 
 ### 🎲 3D
