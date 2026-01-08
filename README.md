@@ -5,6 +5,7 @@ The repository serves as directory for nodes created for Griptape Nodes.
 ## Node Development Guide
 
 If you’re building your own nodes or node libraries, start with the official guide:
+
 - **[Griptape Nodes Node Development Guide](https://github.com/griptape-ai/griptape-nodes-node-development-guide)**
 
 ## 🛹 Griptape team contributed nodes
@@ -84,6 +85,10 @@ If you’re building your own nodes or node libraries, start with the official g
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-topazlabs"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
 ### 🎵 Audio
+
+- **[ElevenLabs](https://github.com/griptape-ai/griptape-nodes-library-elevenlabs)** - high-quality text-to-speech, voice cloning, voice design, voice changer, sound effects generation, and music generation using ElevenLabs' API
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-elevenlabs"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
 - **[Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai)** - generate 30-second instrumental music using Google's Lyria model with creative prompt guidance and copyright protection
 
