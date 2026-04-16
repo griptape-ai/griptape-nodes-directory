@@ -98,6 +98,10 @@ If you’re building your own nodes or node libraries, start with the official g
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
+- **[ACE-Step-1.5](https://github.com/griptape-ai/griptape-nodes-ace-step-1.5-library)** - a highly efficient open-source music foundation model that brings commercial-grade generation to consumer hardware
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-ace-step-1.5-library"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 ### 🔍 Media Analysis
 
 - **[Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai)** - analyze images, videos, and audio using Google's Gemini model with media description capabilities and precise timecode extraction
