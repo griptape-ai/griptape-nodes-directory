@@ -84,6 +84,10 @@ If you’re building your own nodes or node libraries, start with the official g
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-topazlabs"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
+- **[VOID](https://github.com/griptape-ai/griptape-nodes-void-library)** - physics-aware video object removal using [Netflix's VOID model](https://github.com/Netflix/void-model)
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-void-library"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 ### 🎵 Audio
 
 - **[ElevenLabs](https://github.com/griptape-ai/griptape-nodes-library-elevenlabs)** - high-quality text-to-speech, voice cloning, voice design, voice changer, sound effects generation, and music generation using ElevenLabs' API
