@@ -107,6 +107,10 @@ If you’re building your own nodes or node libraries, start with the official g
 - **[Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai)** - analyze images, videos, and audio using Google's Gemini model with media description capabilities and precise timecode extraction
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+  
+- **[Ultralytics](https://github.com/griptape-ai/griptape-nodes-library-ultralytics)** - [YOLO](https://github.com/ultralytics/ultralytics)-based detection nodes
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-ultralytics"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
 ### 🖥️ Display Utilities
 
