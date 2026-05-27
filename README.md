@@ -18,6 +18,10 @@ If you’re building your own nodes or node libraries, start with the official g
 
 ### 🖼️ Image
 
+- **[Annotate](https://github.com/griptape-ai/griptape-nodes-library-annotate)** - A Griptape Nodes library for drawing directly on images — no external tools required. Add paint strokes, labels, arrows, boxes, and ellipses right inside your workflow, then pass the result downstream to any node that accepts an image.
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-annotate"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 - **[Black Forest Labs](https://github.com/griptape-ai/griptape-nodes-library-blackforestlabs)** - interact with Black Forest Labs' FLUX APIs, enabling high-quality image generation and editing capabilities
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-blackforestlabs"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
