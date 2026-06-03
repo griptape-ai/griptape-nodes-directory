@@ -132,6 +132,10 @@ If you’re building your own nodes or node libraries, start with the official g
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-neo4j"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
+- **[Nuke](https://github.com/griptape-ai/griptape-nodes-library-nuke)** - publish and work with [Foundry Nuke](https://www.foundry.com/products/nuke-family/nuke) from Griptape Nodes
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-nuke"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 ### ☁️ Workflow Execution
 
 - **[AWS Deadline Cloud](https://github.com/griptape-ai/griptape-nodes-library-deadline-cloud)** - Submit Nodes workflow executions as [Deadline Cloud Jobs](https://docs.aws.amazon.com/deadline-cloud/latest/userguide/deadline-cloud-jobs.html), with powerful worker instances and parallel exeuction
