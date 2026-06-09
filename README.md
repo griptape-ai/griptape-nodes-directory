@@ -30,6 +30,10 @@ If you’re building your own nodes or node libraries, start with the official g
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-decart"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
+- **[FAL](https://github.com/griptape-ai/griptape-nodes-library-fal)** - upscale images using the SeedVR2 model directly via the fal.ai API
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-fal"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 - **[Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai)** - generate images from text prompts using Google's Imagen & Gemini 2.5 Flash Image models with comprehensive customization options
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
@@ -59,6 +63,10 @@ If you’re building your own nodes or node libraries, start with the official g
 - **[Decart](https://github.com/griptape-ai/griptape-nodes-library-decart)** - generate videos from text prompts, convert images to videos, and transform existing videos using Decart's Lucy Dev and Lucy Pro models with text-to-video, image-to-video, and video-to-video capabilities
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-decart"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
+- **[FAL](https://github.com/griptape-ai/griptape-nodes-library-fal)** - upscale videos using the SeedVR2 model directly via the fal.ai API
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-fal"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
 - **[Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai)** - generate high-quality videos from text prompts and images using Google's Veo model with advanced controls for aspect ratio, resolution, and duration
 
