@@ -130,6 +130,16 @@ If you’re building your own nodes or node libraries, start with the official g
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
+### 🎬 VFX / Color & Image I/O
+
+- **[OpenColorIO](https://github.com/griptape-ai/griptape-nodes-library-opencolorio)** - professional color management built on [OpenColorIO](https://opencolorio.org/) (OCIO), the industry-standard color management system used across film, VFX, and animation pipelines
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-opencolorio"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
+- **[OpenEXR](https://github.com/griptape-ai/griptape-nodes-library-openexr)** - load, inspect, display, and save [OpenEXR](https://openexr.com/) image files for VFX and HDR pipelines
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-openexr"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 ### 💻 Third Party Tools/Software
 
 - **[Blender](https://github.com/griptape-ai/griptape-nodes-library-blender)** - Nodes and MCP server for Blender
