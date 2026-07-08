@@ -24,6 +24,10 @@ If you’re building your own nodes or node libraries, start with the official g
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-rodin"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
+- **[SAM 3D Objects](https://github.com/griptape-ai/griptape-nodes-sam-3d-objects-library)** - reconstruct full 3D shape, texture, and layout from a single image using Meta's SAM 3D Objects, with PLY/OBJ/GLB output and turntable video previews
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-sam-3d-objects-library"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 ### 🖼️ Image
 
 - **[Annotate](https://github.com/griptape-ai/griptape-nodes-library-annotate)** - A Griptape Nodes library for drawing directly on images — no external tools required. Add paint strokes, labels, arrows, boxes, and ellipses right inside your workflow, then pass the result downstream to any node that accepts an image.
@@ -110,6 +114,10 @@ If you’re building your own nodes or node libraries, start with the official g
 
 ### 🎵 Audio
 
+- **[Chatterbox](https://github.com/griptape-ai/griptape-nodes-chatterbox-library)** - text-to-speech with voice cloning using Chatterbox TTS, supporting 23+ languages
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-chatterbox-library"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 - **[ElevenLabs](https://github.com/griptape-ai/griptape-nodes-library-elevenlabs)** - high-quality text-to-speech, voice cloning, voice design, voice changer, sound effects generation, and music generation using ElevenLabs' API
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-elevenlabs"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
@@ -124,13 +132,17 @@ If you’re building your own nodes or node libraries, start with the official g
 
 ### 🔍 Media Analysis
 
+- **[Depth Anything 3](https://github.com/griptape-ai/griptape-nodes-depth-anything-3-library)** - monocular depth estimation from images and videos using the Depth Anything 3 models
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-depth-anything-3-library"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 - **[Google AI](https://github.com/griptape-ai/griptape-nodes-library-googleai)** - analyze images, videos, and audio using Google's Gemini model with media description capabilities and precise timecode extraction
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
-  
-- **[Ultralytics](https://github.com/griptape-ai/griptape-nodes-library-ultralytics)** - [YOLO](https://github.com/ultralytics/ultralytics)-based detection nodes
 
-  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-ultralytics"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+- **[TwelveLabs](https://github.com/griptape-ai/griptape-nodes-library-twelve-labs)** - index, search, and analyze videos via the TwelveLabs API, routed through the Griptape Cloud proxy
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-twelve-labs"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
 ### 🖥️ Display Utilities
 
@@ -150,9 +162,21 @@ If you’re building your own nodes or node libraries, start with the official g
 
 ### 💻 Third Party Tools/Software
 
+- **[Autodesk Flow Production Tracking](https://github.com/griptape-ai/griptape-nodes-library-flow-production-tracking)** - connect to Autodesk Flow Production Tracking (formerly ShotGrid) to create, update, and query projects, assets, tasks, and entities
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-flow-production-tracking"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
+- **[AWS](https://github.com/griptape-ai/griptape-nodes-aws-library)** - upload files to and download files from AWS S3 using boto3 credentials
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-aws-library"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 - **[Blender](https://github.com/griptape-ai/griptape-nodes-library-blender)** - Nodes and MCP server for Blender
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-blender"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
+- **[Google Maps](https://github.com/griptape-ai/griptape-nodes-library-maps)** - fetch Google Street View images from an address or lat/lng coordinates via the Google Street View Static API
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-maps"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
 - **[Neo4j](https://github.com/griptape-ai/griptape-nodes-library-neo4j)** - Nodes for managing and accessing a [Neo4j graph database](https://neo4j.com/)
 
@@ -162,17 +186,15 @@ If you’re building your own nodes or node libraries, start with the official g
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-nuke"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
+- **[OpenAssetIO](https://github.com/griptape-ai/griptape-nodes-library-openassetio)** - resolve and publish asset metadata between Griptape Nodes and any OpenAssetIO-compatible asset management system
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-openassetio"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 ### ☁️ Workflow Execution
 
 - **[AWS Deadline Cloud](https://github.com/griptape-ai/griptape-nodes-library-deadline-cloud)** - Submit Nodes workflow executions as [Deadline Cloud Jobs](https://docs.aws.amazon.com/deadline-cloud/latest/userguide/deadline-cloud-jobs.html), with powerful worker instances and parallel exeuction
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-deadline-cloud"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
-
-### 🔧 Miscellaneous
-
-- **[FireCrawl](https://github.com/griptape-ai/griptape-nodes-library-firecrawl)** - generate text by crawling the web with FireCrawl
-
-  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-firecrawl"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
 ## 🧑‍🤝‍🧑 Community contributed nodes
 
