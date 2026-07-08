@@ -8,7 +8,15 @@ If you’re building your own nodes or node libraries, start with the official g
 
 - **[Griptape Nodes Node Development Guide](https://github.com/griptape-ai/griptape-nodes-node-development-guide)**
 
+> 🧪 marks a Labs library — experimental and under active development. Expect breaking changes.
+
 ## 🛹 Griptape team contributed nodes
+
+### 🏗️ Foundations
+
+- 🧪 **[Modular Diffusers](https://github.com/griptape-ai/griptape-nodes-library-diffusers)** - compose image and video generation workflows from modular Diffusers pipeline stages — build a pipeline once, then chain, branch, or reorder the individual noise, diffuse, transform, and decode steps as nodes. Supports Flux, SDXL, Qwen-Image, Z-Image, LTX, and WAN, with LoRA and ControlNet.
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-diffusers"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
 ### 🎲 3D
 
