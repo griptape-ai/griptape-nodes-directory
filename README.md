@@ -20,6 +20,10 @@ If you’re building your own nodes or node libraries, start with the official g
 
 ### 🎲 3D
 
+- **[Cartwheel](https://github.com/griptape-ai/griptape-nodes-library-cartwheel)** - AI-driven 3D character animation via the Cartwheel motion orchestration API, with text- and video-based motion generation, character creation, and mascot creation
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-cartwheel"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 - **[Hyper3D Rodin](https://github.com/griptape-ai/griptape-nodes-library-rodin)** - generate 3D models from text prompts or images using Hyper3D's Rodin API with support for text-to-3D, image-to-3D, multi-image generation, and multiple output formats (GLB/USDZ)
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-rodin"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
@@ -84,6 +88,10 @@ If you’re building your own nodes or node libraries, start with the official g
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
+- **[InfiniteTalk](https://github.com/griptape-ai/griptape-nodes-infinite-talk-library)** - audio-driven talking video generation with InfiniteTalk — animate a still image to speak driving audio, or dub an existing video with new audio
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-infinite-talk-library"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 - **[Kling](https://github.com/griptape-ai/griptape-nodes-library-kling)** - generate videos from text prompts, images, or extend existing videos
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-kling"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
@@ -95,6 +103,10 @@ If you’re building your own nodes or node libraries, start with the official g
 - **[Minimax](https://github.com/griptape-ai/griptape-nodes-library-minimax)** - generate videos from text prompts, animate images, or create smooth transitions between keyframes with advanced camera controls and multiple resolution options
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-minimax"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
+- **[MiniMax-Remover](https://github.com/griptape-ai/griptape-nodes-minimax-remover-library)** - AI-powered video object removal using the MiniMax-Remover diffusion model with mask guidance
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-minimax-remover-library"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
 - **[RunwayML](https://github.com/griptape-ai/griptape-nodes-library-runwayml)** - generate videos from images and text prompts
 
@@ -129,6 +141,10 @@ If you’re building your own nodes or node libraries, start with the official g
 - **[ACE-Step-1.5](https://github.com/griptape-ai/griptape-nodes-ace-step-1.5-library)** - a highly efficient open-source music foundation model that brings commercial-grade generation to consumer hardware
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-ace-step-1.5-library"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
+- **[SAM Audio](https://github.com/griptape-ai/griptape-nodes-sam-audio-library)** - isolate specific sounds from an audio track using text, temporal, or span prompts with Meta's SAM Audio model
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-sam-audio-library"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
 ### 🔍 Media Analysis
 
