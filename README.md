@@ -42,6 +42,10 @@ If you’re building your own nodes or node libraries, start with the official g
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-blackforestlabs"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
+- **[CorridorKey](https://github.com/griptape-ai/griptape-nodes-library-corridorkey)** - neural green/blue screen keying for single frames using [CorridorKey](https://github.com/nikopueringer/CorridorKey), producing a clean straight alpha matte, a despilled foreground, and a premultiplied RGBA matte for compositing
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-corridorkey"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 - **[Decart](https://github.com/griptape-ai/griptape-nodes-library-decart)** - generate images from text prompts and transform existing images using Decart's Lucy Pro models with text-to-image and image-to-image capabilities
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-decart"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
@@ -75,6 +79,10 @@ If you’re building your own nodes or node libraries, start with the official g
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-topazlabs"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
 ### 🎥 Video
+
+- **[CorridorKey](https://github.com/griptape-ai/griptape-nodes-library-corridorkey)** - neural green/blue screen keying across a video clip or image sequence using [CorridorKey](https://github.com/nikopueringer/CorridorKey), with a choice of BiRefNet, GVM, or VideoMaMa as the per-frame alpha hint source
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-corridorkey"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
 - **[Decart](https://github.com/griptape-ai/griptape-nodes-library-decart)** - generate videos from text prompts, convert images to videos, and transform existing videos using Decart's Lucy Dev and Lucy Pro models with text-to-video, image-to-video, and video-to-video capabilities
 
