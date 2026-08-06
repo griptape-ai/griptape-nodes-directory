@@ -168,6 +168,10 @@ If you’re building your own nodes or node libraries, start with the official g
 
 ### 🎬 VFX / Color & Image I/O
 
+- **[CorridorKey](https://github.com/griptape-ai/griptape-nodes-library-corridorkey)** - neural green/blue screen keying for single frames, video clips, and image sequences using [CorridorKey](https://github.com/nikopueringer/CorridorKey), producing a clean straight alpha matte, a despilled foreground, and a premultiplied RGBA matte for compositing
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-corridorkey"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 - **[OpenColorIO](https://github.com/griptape-ai/griptape-nodes-library-opencolorio)** - professional color management built on [OpenColorIO](https://opencolorio.org/) (OCIO), the industry-standard color management system used across film, VFX, and animation pipelines
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-opencolorio"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
