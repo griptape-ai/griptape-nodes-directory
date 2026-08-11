@@ -54,6 +54,10 @@ If you’re building your own nodes or node libraries, start with the official g
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-googleai"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
+- **[Image Tiles](https://github.com/griptape-ai/griptape-nodes-library-image-tiles)** - split images into tiles for batch processing (upscaling, inpainting, style transfer), merge them back seamlessly, and convert, blend, and preview equirectangular 360° panoramas
+
+  <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-image-tiles"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 - **[LoRA Training](https://github.com/griptape-ai/griptape-nodes-lora-training-library)** - Generate training datasets and train LoRA models using [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts)
 
   <p align="right"><a href="https://nodes.griptape.ai/#library-management?git=https://github.com/griptape-ai/griptape-nodes-lora-training-library"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
