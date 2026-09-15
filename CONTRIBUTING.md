@@ -46,6 +46,20 @@ Documentation improvements are always welcome:
 ### Style
 - Follow the existing style in the repository
 
+#### Add to Griptape Nodes button
+
+Each entry ends with a button that installs the library. Copy it and replace the
+git URL with your repository:
+
+```html
+<p align="right"><a href="https://app.nodes.griptape.ai/open#library-management?git=https://github.com/your-username/your-library"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+```
+
+The `/open` path hands the link to Griptape Nodes Desktop when it is installed,
+and otherwise offers the download or the web editor. Use `app.nodes.griptape.ai`:
+`nodes.griptape.ai` redirects there and drops the path, which turns the link back
+into a web-only one.
+
 ### Documentation
 - Include a detailed README.md in your node repository
 - Document all configuration options
