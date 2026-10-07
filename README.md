@@ -18,15 +18,15 @@ If you’re building your own nodes or node libraries, start with the official g
 
   <p align="right"><a href="https://app.nodes.griptape.ai/open#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-diffusers"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
+- **[Advanced Media](https://github.com/griptape-ai/griptape-nodes-library-advanced-media)** - a toolkit of preprocessing and analysis nodes, including ControlNet preprocessors (Canny, OpenPose, Anyline), Grounding DINO + SAM2 segmentation, OpenCV edge and morphology operations, Depth Anything V2 depth estimation, Spandrel upscaling, and Hugging Face Transformers pipelines, for conditioning and supporting image and video generation workflows
+
+  <p align="right"><a href="https://app.nodes.griptape.ai/open#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-advanced-media"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 ### 🎲 3D
 
 - **[Cartwheel](https://github.com/griptape-ai/griptape-nodes-library-cartwheel)** - AI-driven 3D character animation via the Cartwheel motion orchestration API, with text- and video-based motion generation, character creation, and mascot creation
 
   <p align="right"><a href="https://app.nodes.griptape.ai/open#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-cartwheel"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
-
-- **[Hyper3D Rodin](https://github.com/griptape-ai/griptape-nodes-library-rodin)** - generate 3D models from text prompts or images using Hyper3D's Rodin API with support for text-to-3D, image-to-3D, multi-image generation, and multiple output formats (GLB/USDZ)
-
-  <p align="right"><a href="https://app.nodes.griptape.ai/open#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-rodin"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
 - **[SAM 3D Objects](https://github.com/griptape-ai/griptape-nodes-sam-3d-objects-library)** - reconstruct full 3D shape, texture, and layout from a single image using Meta's SAM 3D Objects, with PLY/OBJ/GLB output and turntable video previews
 
@@ -219,6 +219,10 @@ If you’re building your own nodes or node libraries, start with the official g
 - **[AWS Deadline Cloud](https://github.com/griptape-ai/griptape-nodes-library-deadline-cloud)** - Submit Nodes workflow executions as [Deadline Cloud Jobs](https://docs.aws.amazon.com/deadline-cloud/latest/userguide/deadline-cloud-jobs.html), with powerful worker instances and parallel exeuction
 
   <p align="right"><a href="https://app.nodes.griptape.ai/open#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-deadline-cloud"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
+- **[Griptape Cloud](https://github.com/griptape-ai/griptape-nodes-library-griptape-cloud)** - upload and manage assets and buckets in Griptape Cloud, publish Nodes workflows as Griptape Cloud structures, and run Griptape Cloud assistants and structures
+
+  <p align="right"><a href="https://app.nodes.griptape.ai/open#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-griptape-cloud"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
 ## 🧑‍🤝‍🧑 Community contributed nodes
 
