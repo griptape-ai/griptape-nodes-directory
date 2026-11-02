@@ -208,7 +208,7 @@ If you’re building your own nodes or node libraries, start with the official g
 
 - **[Nuke](https://github.com/griptape-ai/griptape-nodes-library-nuke)** - publish and work with [Foundry Nuke](https://www.foundry.com/products/nuke-family/nuke) from Griptape Nodes
 
-  <p align="right"><a href="https://app.nodes.griptape.ai/open#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-nuke"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+  <p align="right"><a href="https://app.nodes.griptape.ai/open#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-nuke&ref=stable"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
 - **[OpenAssetIO](https://github.com/griptape-ai/griptape-nodes-library-openassetio)** - resolve and publish asset metadata between Griptape Nodes and any OpenAssetIO-compatible asset management system
 
