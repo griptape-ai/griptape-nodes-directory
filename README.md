@@ -74,6 +74,10 @@ If you’re building your own nodes or node libraries, start with the official g
 
   <p align="right"><a href="https://app.nodes.griptape.ai/open#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-sam3"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
+- **[scikit-image](https://github.com/griptape-ai/griptape-nodes-library-scikit-image)** - split images such as character model sheets into one image per drawing, with a live preview, and work on scans and photos of drawings: flatten the paper, get the lines as an alpha, trim, align, compare, trace to SVG, and make boiling-line frames and in-betweens
+
+  <p align="right"><a href="https://app.nodes.griptape.ai/open#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-scikit-image"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
+
 - **[Topaz Labs](https://github.com/griptape-ai/griptape-nodes-library-topazlabs)** - denoise and enhance images with Topaz Labs models via their API
 
   <p align="right"><a href="https://app.nodes.griptape.ai/open#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-topazlabs"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
