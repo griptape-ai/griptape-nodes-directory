@@ -224,10 +224,6 @@ If you’re building your own nodes or node libraries, start with the official g
 
   <p align="right"><a href="https://app.nodes.griptape.ai/open#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-deadline-cloud"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
 
-- **[Griptape Cloud](https://github.com/griptape-ai/griptape-nodes-library-griptape-cloud)** - upload and manage assets and buckets in Griptape Cloud, publish Nodes workflows as Griptape Cloud structures, and run Griptape Cloud assistants and structures
-
-  <p align="right"><a href="https://app.nodes.griptape.ai/open#library-management?git=https://github.com/griptape-ai/griptape-nodes-library-griptape-cloud"><img src="images/add_to_griptape_nodes.png" width="150" alt="Add to Griptape Nodes"></a></p>
-
 ## 🧑‍🤝‍🧑 Community contributed nodes
 
 ### 🖼️ Image
